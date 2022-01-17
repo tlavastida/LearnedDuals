@@ -1,7 +1,7 @@
 # LearnedDuals
 
-Code for the paper "Faster Matching via Learned Duals" in NeurIPS 2021.  
-Authors: Michael Dinitz, Sungjin Im, Thomas Lavatida, Benjamin Moseley, and Sergeri Vassilvitskii  
+Code for the paper "Faster Matching via Learned Duals" which appeared in NeurIPS 2021.  
+Authors: Michael Dinitz, Sungjin Im, Thomas Lavatida, Benjamin Moseley, and Sergei Vassilvitskii  
 [Openreview Link](https://openreview.net/forum?id=kB8eks2Edt8)
 
 Code is provided as is.
