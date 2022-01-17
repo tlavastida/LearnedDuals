@@ -12,6 +12,12 @@ The code files can be roughly split into two groups: algorithm implementations +
 
 ### Implementation + Utility Code Files
 
+
+| File name | Description |
+| ----------- | ----------- |
+| BipartiteGraph.py | Bipartite graph data structure |
+| MaxBipartiteMatching.py | Maximum cardinality matching in bipartite graphs via Hopcroft-Karp |
+
 - BipartiteGraph.py 			- Bipartite graph data structure
 - MaxBipartiteMatching.py		- Maximum cardinality matching in bipartite graphs via Hopcroft-Karp
 - MinWeightPerfectMatching.py   - Minimum weight perfect matching in bipartite graphs via the Hungarian algorithm.  Also supports initialization with user-provided dual variables.
