@@ -6,12 +6,13 @@ Authors: Michael Dinitz, Sungjin Im, Thomas Lavatida, Benjamin Moseley, and Serg
 
 Code is provided as is.
 
+See Section 4 of [the paper](https://openreview.net/pdf?id=kB8eks2Edt8) for details on the experiments.  Datasets can be downloaded from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
+
 ## Overview
 
 The code files can be roughly split into two groups: algorithm implementations + utility code and code for running the experiments.
 
 ### Implementation + Utility Code Files
-
 
 | File name | Description |
 | ----------- | ----------- |
@@ -26,7 +27,9 @@ The code files can be roughly split into two groups: algorithm implementations +
 
 | File name | Description |
 | ----------- | ----------- |
-
+| type_model_exp.py | For synthetic experiments in the batch setting on the type model instances |
+| geometric_type_model_exp.py | For experiments in the batch setting on the instances derived from geometric data  sets |
+| online_test.py | For experiments in the online setting (both synthetic and real data sets) |
 
 ### Dependencies
 
